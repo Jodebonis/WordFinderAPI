@@ -33,7 +33,7 @@ Ready to fire things up locally? Just follow these simple steps:
 
 ### Generating Auth Tokens 
 
-Time to get access! To interact with the WordFinderAPI, you'll need an authorization token from our Keycloak service. It's easy, just follow these steps:
+To interact with the WordFinderAPI, you'll need an authorization token from our Keycloak service. It's easy, just follow these steps:
 
 1. Replace the placeholders {USERNAME} and {PASSWORD} with your Keycloak username and password in the following curl command:
 
